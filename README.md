@@ -25,7 +25,7 @@ perfect for learning how AI can merge creativity with technology.
 
 ## 🖥️ Demo
 
-🚀 **Live App:** [Try VisionArt on Streamlit Cloud](https://share.streamlit.io/) *(Deploy yours free!)*  
+🚀 **Live App:** [Try VisionArt on Streamlit Cloud]([https://share.streamlit.io/](https://visionart-ai-webcam-drawing-aiml-majorproject.streamlit.app/)) *(Deploy yours free!)*  
 📹 **Demo Video:** *(Add a short screen recording link here — optional)*
 
 ---
